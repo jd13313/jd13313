@@ -7,24 +7,15 @@ You may notice that some of these site's codebases are a little messy and not ve
 ### Jagger James Salon
 
 This website was built to be a single page site with a few separate pages. The client wanted as much of their info immediately available to their customers as possible. This was handled with a single query that pulled in all pages marked for "one_page_view". If I were to do this site now, I'd probably just go with a VueJS frontend and use the WP REST API to pull in the pages. 
-
-* [Repository](https://github.com/jd13313/Jagger-James-Salon)
-
 * [Live Site](https://jaggerjamessalon.com/)
 
 ### Triad Engineering
-
-* [Repository](https://github.com/jd13313/Triad-Engineering)
 * [Live Site](https://triadeng.com/)
 
 ### ConservIt
-
-* [ConservIt](https://github.com/jd13313/ConservIt)
 * [Live Site](https://conservit.net)
 
 ### Shenandoah Air
-
-* [Repository](https://github.com/jd13313/Shenandoah-Air)
 * [Live Site](https://www.shenandoahair.com/)
 
 ### Other Sites
